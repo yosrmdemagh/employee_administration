@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1651234056 source:c:\users\bsi 220219\desktop\yosr mdemagh projet c\projet_c.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"projet_c.h"
+	<tchar.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
+1651232571 c:\users\bsi 220219\desktop\yosr mdemagh projet c\projet_c.h
+
+1651232670 source:c:\users\bsi 220219\desktop\yosr mdemagh projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"projet_c.h"
+	<tchar.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1651232670 source:c:\users\bsi 220219\desktop\yosr 4 sum\yosr t\yosr projects\yosr mdemagh projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"projet_c.h"
+	<tchar.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1651232571 c:\users\bsi 220219\desktop\yosr 4 sum\yosr t\yosr projects\yosr mdemagh projet c\projet_c.h
+
+1651234056 source:c:\users\bsi 220219\desktop\yosr 4 sum\yosr t\yosr projects\yosr mdemagh projet c\projet_c.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	"projet_c.h"
+	<tchar.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
